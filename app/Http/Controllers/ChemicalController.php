@@ -26,8 +26,6 @@ class ChemicalController extends Controller
         ]);
         return redirect()->route('chemical.index');
     }
-
-    
     */ 
 }
 
